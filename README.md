@@ -10,6 +10,7 @@ The Sustainable Development Solutions Network (SDSN), which co-produces the Glob
 The report compares the performance of capital cities and a selection of large metropolitan areas in the European-Union (EU) and European Free Trade Association (EFTA) on the 17 Sustainable Development Goals (SDGs). In total, results for 45 European cities are presented in this first prototype version using 56 indicators. The report includes contributions from Nilda Mesa (Center for Sustainable Urban Development, Columbia University), the OECD and European Commission, and urban policymakers.
 
 For more information on this report, see http://unsdsn.org/resources/publications/sdg-index-and-dashboards-report-for-european-cities/.
+
 For data from our other projects, see https://github.com/sdsna
 
 ## Data
