@@ -30,7 +30,5 @@ Please cite report as: Guillaume Lafortune, Kees Zoeteman, Grayson Fuller, Rens 
 
 Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to info@sdgindex.org and including information on your publication.
 
-If you have questions, please contact SDSN at <info@sdgindex.org>.
-
-For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de
+We very much welcome comments and suggestions for filling gaps in the data used for this index and for improving the analysis and presentation of the results. Please contact us at info@sdgindex.org or telos@uvt.nl.
 
