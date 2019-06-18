@@ -1,49 +1,29 @@
 <img src="https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
-# SDG INDEX AND DASHBOARDS REPORT 2018  
-## Global Responsibilities: Implementing the Goals
-Country-level data from 2018 Index and Dashboards
-
-[Project image]
-
-## Project History
-Agenda 2030 and the Sustainable Development Goals, adopted by all member states of the United-Nations in 2015, describe a universal agenda that applies to and must be implemented by all countries. Sound metrics and data are critical for turning the SDGs into practical tools for problem solving.
-
-The SDG Index and Dashboards Report is the first worldwide study to assess where each country stands with regard to achieving the Sustainable Development Goals (SDGs). Unlike its predecessor the Millennium Development Goals, the SDGs set standards not only for emerging and developing countries, but also for the industrialized nations. Governments and civil society alike can utilize the SDG Index and Dashboards Report to identify priorities for action, understand key implementation challenges, track progress, ensure accountability, and identify gaps that must be closed in order to achieve the SDGs by 2030.
-
-The report is co-produced every year since 2016 by the [Bertelsmann Stiftung](https://www.bertelsmann-stiftung.de/de/startseite/) and the [Sustainable Development Solutions Network (SDSN)](http://unsdsn.org/). It is a complement to the official SDG indicators and voluntary country-led review processes. The report is not an official monitoring tool. It uses publicly available data published by official data providers (World Bank, WHO, ILO, others) and other organizations including research centers and non-governmental organizations.
-
+# SDG Index and Dashboards Report for European Cities  
+## Prototype Version
+City-level data from 2019 Index and Dashboards
 
 ## Report Description
-The SDG Index and Dashboards 2018 report presents a revised and updated assessment of countries’ distance to achieving the Sustainable Development Goals (SDGs). It includes detailed SDG Dashboards to help identify implementation priorities for the SDGs. The report also provides a ranking of countries by the aggregate SDG Index of overall performance.
+The Sustainable Development Solutions Network (SDSN), which co-produces the Global Sustainable Development Report (formerly SDG Index and Dashboards), in partnership with the Brabant Center for Sustainable Development (Telos, Tilburg University), released the first-ever SDG Index and Dashboards Report for European Cities.
 
-This year’s report includes several improvements and additions in comparison to previous versions. It incorporates trend data for the first time. New indicators have been added to cover more accurately the SDGs and associated targets with a special focus on “leave no one behind” for OECD member states. We present data for all 193 UN member states and estimate absolute SDG achievement gaps to complement per capita estimates. Building on the 2017 report, we expand the analysis of international SDG spillovers and present an overall SDG spillover index.
+The report compares the performance of capital cities and a selection of large metropolitan areas in the European-Union (EU) and European Free Trade Association (EFTA) on the 17 Sustainable Development Goals (SDGs). In total, results for 45 European cities are presented in this first prototype version using 56 indicators. The report includes contributions from Nilda Mesa (Center for Sustainable Urban Development, Columbia University), the OECD and European Commission, and urban policymakers.
 
-For more information on this report, see https://www.sdgindex.org/reports/2018/.
+For more information on this report, see http://unsdsn.org/resources/publications/sdg-index-and-dashboards-report-for-european-cities/.
 For data from our other projects, see https://github.com/sdsna
 
 ## Data
 
-The data is distributed in 2 files, each available in CSV or Stata format.
-
-1. Data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.dta) format.
-2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.dta) format.
-
-
-## Methodology
-
-[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Methodology.pdf)
+1. Data from most recent year, EU Cities Index Results 2019, available in [Excel](https://github.com/sdsna/2019EUCitiesIndex/blob/master/2019EUCitiesIndexResults.xlsx) 
 
 ## License
 
 By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
 
 ## Colophon
-Lead writers are Jeffrey Sachs, Guido Schmidt-Traub, Christian Kroll, Guillaume Lafortune and Grayson Fuller. The report should be cited as: Sachs, J., Schmidt-Traub, G., Kroll, C., Lafortune, G., Fuller, G. (2018): SDG Index and Dashboards Report 2018. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
+The report was prepared by teams of independent experts at the SDSN Secretariat and TELOS. Lead writers at SDSN include Guillaume Lafortune and Grayson Fuller under the direction of Guido Schmidt-Traub. Lead writers at TELOS include Kees Zoeteman, Rens Mulder and John Dagevos. The views expressed in this report do not reflect the views of any organizations, agencies or programmes of the United Nations. Additionally, they may not reflect the opinions of SDSN’s Leadership Council members and their host institutions.
 
-Guillaume Lafortune coordinated the production of the report under the direction of Guido Schmidt-Traub and Christian Kroll and under the overall supervision of Jeffrey Sachs. Grayson Fuller was responsible for the data collection and management.
-
-Publication design and layout by [Pica Publishing](http://www.pica-publishing.com/).
+Please cite report as: Guillaume Lafortune, Kees Zoeteman, Grayson Fuller, Rens Mulder, John Dagevos and Guido Schmidt-Traub. (2019). The 2019 SDG Index and Dashboards Report for European Cities (prototype version). Sustainable Development Solutions Network (SDSN) and the Brabant Center for Sustainable Development (Telos).
 
 ## Endmatter
 
@@ -52,10 +32,4 @@ Please notify us about any publications that result from the use of the SDG Inde
 If you have questions, please contact SDSN at <info@sdgindex.org>.
 
 For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de
-
-In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn.org and christian.kroll@bertelsmann-stiftung.de
-
-The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat and the Bertelsmann Stiftung.
-
-This report has been prepared with the extensive advice and consultation of the SDSN Leadership Council members. Members of the Leadership Council listed serve in their personal capacities, so the opinions expressed in this report may not reflect the opinions of their host institutions. Members are not necessarily in agreement with every detail of this report.
 
