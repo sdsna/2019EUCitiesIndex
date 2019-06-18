@@ -2,7 +2,7 @@
 
 # SDG Index and Dashboards Report for European Cities  
 ## Prototype Version
-City-level data from 2019 Index and Dashboards
+EU City-level data from 2019 Index and Dashboards
 
 ## Report Description
 The Sustainable Development Solutions Network (SDSN), which co-produces the Global Sustainable Development Report (formerly SDG Index and Dashboards), in partnership with the Brabant Center for Sustainable Development (Telos, Tilburg University), released the first-ever SDG Index and Dashboards Report for European Cities.
