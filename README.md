@@ -11,11 +11,11 @@ The report compares the performance of capital cities and a selection of large m
 
 For more information on this report, see http://unsdsn.org/resources/publications/sdg-index-and-dashboards-report-for-european-cities/.
 
-For data from our other projects, see https://github.com/sdsna
+For data from our other projects, see https://github.com/sdsna.
 
 ## Data
 
-1. Data from most recent year, EU Cities Index Results 2019, available in [Excel](https://github.com/sdsna/2019EUCitiesIndex/blob/master/2019EUCitiesIndexResults.xlsx) 
+1. Data from most recent year, EU Cities Index Results 2019, available in [Excel](https://github.com/sdsna/2019EUCitiesIndex/blob/master/2019EUCitiesIndexResults.xlsx). 
 
 ## License
 
