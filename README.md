@@ -1,4 +1,4 @@
-<img src="https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
+<img src="https://github.com/sdsna/2018GlobalIndex/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
 # SDG Index and Dashboards Report for European Cities  
 ## Prototype Version
